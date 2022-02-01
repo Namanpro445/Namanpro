@@ -1,0 +1,3 @@
+"ip":"Namanpro22.aternos.me",
+"port":"41102",
+"name":"Naman"
